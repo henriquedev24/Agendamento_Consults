@@ -29,7 +29,6 @@ async function Login(email, password) {
             return [];
     }
 
-    return user;
 }
 
 async function Profile(id_user) {
